@@ -1,5 +1,7 @@
 # Hospital-Management-System (H.M.S)
-The system will manage appointment data for multiple doctors of various dates and times. It also generates reports based on the data collected about each patient. 
+
+A command-line application that will manage appointment data for multiple doctors of various dates and times. It also generates reports based on the data collected about each patient. 
+
 
 # Key Features
 
