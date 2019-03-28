@@ -2,7 +2,6 @@
 
 A command-line application that will manage appointment data for multiple doctors of various dates and times. It also generates reports based on the data collected about each patient. 
 
-
 # Key Features
 
 - Every time a patient visits a doctor, his/her medical records are updated. 
