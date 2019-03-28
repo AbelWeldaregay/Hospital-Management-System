@@ -1,2 +1,10 @@
-# Hospital-Management-System
-The system will manage appointment data for multiple doctors of various dates and times. Every time a patient visits a doctor, his/her medical records are updated. Additionally, his/her appointment records and doctor notes are also updated. Report production is essential in H.M.S. The system allows the doctor to view medical histories and lab results for his/her patients.
+# Hospital-Management-System (H.M.S)
+The system will manage appointment data for multiple doctors of various dates and times. It also generates reports based on the data collected about each patient. 
+
+# Key Features
+
+- Every time a patient visits a doctor, his/her medical records are updated. 
+- Additionally, his/her appointment records and doctor notes are also updated.
+- The system allows the doctor to view medical histories and lab results for his/her patients.
+
+# Screenshots
